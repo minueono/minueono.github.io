@@ -20,3 +20,4 @@ intro:
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
+김민영입니다
